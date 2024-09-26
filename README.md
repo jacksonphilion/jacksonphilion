@@ -1,4 +1,4 @@
-September 25, 2024
+September 25, 2024. \
 Hi, I’m Jackson Philion, a Harvey Mudd student from Boston and San Diego who's set to graduate in May 2025.
 I’m interested in Digital Design, FPGA and MCU programming, Embedded Systems, and Hardware Engineering.
 I love working on teams and projects that let me work on multiple sides of these topics, exploring the necessary
